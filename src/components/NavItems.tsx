@@ -3,7 +3,7 @@
 import { PRODUCT_CATEGORIES } from "@/config";
 import { useState } from "react";
 import { NavItem } from "./NavItem";
-// TODO Arrumar espaço entre o logo e os link 
+
 export function NavItems() {
     const [activeIndex, setActiveIndex] = useState<null | number>(null);
 
