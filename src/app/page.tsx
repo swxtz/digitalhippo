@@ -53,7 +53,7 @@ export default function Home() {
                         </Button>
                     </div>
                 </div>
-                {/* TODO: List products */}
+                {/* TODO List products */}
             </MaxWidthWrapper>
 
             <section className="border-t border-gray-200 bg-gray-50">
